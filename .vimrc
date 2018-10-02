@@ -1,0 +1,22 @@
+filetype indent on
+
+syntax on
+set tabstop=4
+set shiftwidth=4
+set noexpandtab
+set autoindent
+set cindent
+set ai
+set number
+set hlsearch
+set ruler
+set mouse=a
+highlight Comment ctermfg=green
+
+set cursorline
+
+hi clear CursorLine
+hi CursorLine gui=underline cterm=underline
+
+set list
+set listchars=tab:!\ 
