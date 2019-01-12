@@ -1,3 +1,5 @@
+"vimrc by sjkywalker
+
 filetype indent on
 
 syntax on
