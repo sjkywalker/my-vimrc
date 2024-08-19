@@ -5,8 +5,8 @@ filetype indent on
 syntax on
 set tabstop=4
 set shiftwidth=4
-set noexpandtab
-set autoindent
+"set noexpandtab
+"set autoindent
 set cindent
 set ai
 set number
