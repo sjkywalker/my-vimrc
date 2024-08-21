@@ -6,7 +6,8 @@ syntax on
 set tabstop=4
 set shiftwidth=4
 "set noexpandtab
-"set autoindent
+set expandtab
+set autoindent
 set cindent
 set ai
 set number
